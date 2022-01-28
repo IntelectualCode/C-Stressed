@@ -1,0 +1,13 @@
+C:\Users\zenka\Documents\Stresser\bin\Debug\netcoreapp3.1\Stresser.exe
+C:\Users\zenka\Documents\Stresser\bin\Debug\netcoreapp3.1\Stresser.deps.json
+C:\Users\zenka\Documents\Stresser\bin\Debug\netcoreapp3.1\Stresser.runtimeconfig.json
+C:\Users\zenka\Documents\Stresser\bin\Debug\netcoreapp3.1\Stresser.runtimeconfig.dev.json
+C:\Users\zenka\Documents\Stresser\bin\Debug\netcoreapp3.1\Stresser.dll
+C:\Users\zenka\Documents\Stresser\bin\Debug\netcoreapp3.1\Stresser.pdb
+C:\Users\zenka\Documents\Stresser\obj\Debug\netcoreapp3.1\Stresser.csproj.AssemblyReference.cache
+C:\Users\zenka\Documents\Stresser\obj\Debug\netcoreapp3.1\Stresser.AssemblyInfoInputs.cache
+C:\Users\zenka\Documents\Stresser\obj\Debug\netcoreapp3.1\Stresser.AssemblyInfo.cs
+C:\Users\zenka\Documents\Stresser\obj\Debug\netcoreapp3.1\Stresser.csproj.CoreCompileInputs.cache
+C:\Users\zenka\Documents\Stresser\obj\Debug\netcoreapp3.1\Stresser.dll
+C:\Users\zenka\Documents\Stresser\obj\Debug\netcoreapp3.1\Stresser.pdb
+C:\Users\zenka\Documents\Stresser\obj\Debug\netcoreapp3.1\Stresser.genruntimeconfig.cache
